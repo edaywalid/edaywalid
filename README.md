@@ -39,7 +39,7 @@ I'm Walid, a 19-year-old backend developer from Algeria, passionate about buildi
 <ul>
   <li>🛠️ Exploring frontend development to visualize server-side logic.</li>
   <li>🧠 Deepening my knowledge of DevOps.</li>
-  <l1>🧰 Deeping my knowledge of low-level programming.</l1>
+  <li>🧰 Deeping my knowledge of low-level programming.</li>
 </ul>
 
 ---
