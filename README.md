@@ -1,9 +1,20 @@
 ## Walid Bechar 
 
-**`🔧 Backend Engineer | DevOps  `**
+**`🔧 Backend Engineer | DevOps `**
 
-I'm Walid, a passionate backend developer and low-level enthusiast 
+I'm Walid, a 19-year-old backend developer from Algeria, passionate about building scalable systems and exploring low-level programming. When I'm not coding, you might find me experimenting with system design, hosting workshops
 
+---
+<a href="https://www.linkedin.com/in/bechar-walid/">
+  <img align="left" alt="Bechar Walid" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<br />
+<br />
+
+
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 ---
 
 ### 🧰 Languages and Tools
@@ -24,6 +35,15 @@ I'm Walid, a passionate backend developer and low-level enthusiast
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edaywalid&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaywalid)
-<br />
+<h3>📚 Current Projects & Goals</h3>
+<ul>
+  <li>🛠️ Exploring frontend development to visualize server-side logic.</li>
+  <li>🧠 Deepening my knowledge of DevOps.</li>
+  <l1>🧰 Deeping my knowledge of low-level programming.</l1>
+</ul>
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edaywalid&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaywalid)
+<br />
