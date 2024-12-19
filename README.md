@@ -2,7 +2,7 @@
 
 **`🔧 Backend Engineer | DevOps `**
 
-I'm Walid, a 19-year-old backend developer from Algeria, passionate about building scalable systems and exploring low-level programming. When I'm not coding, you might find me experimenting with system design, hosting workshops
+I'm Walid, a backend developer from Algeria, passionate about building scalable systems and exploring low-level programming
 
 ---
 <a href="https://www.linkedin.com/in/bechar-walid/">
@@ -35,12 +35,6 @@ I'm Walid, a 19-year-old backend developer from Algeria, passionate about buildi
 
 ---
 
-<h3>📚 Current Projects & Goals</h3>
-<ul>
-  <li>🛠️ Exploring frontend development to visualize server-side logic.</li>
-  <li>🧠 Deepening my knowledge of DevOps.</li>
-  <li>🧰 Deeping my knowledge of low-level programming.</li>
-</ul>
 
 ---
 
